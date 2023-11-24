@@ -121,7 +121,7 @@ namespace утютютютю
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show("Error: " + ex.Message);
+                    MessageBox.Show("Ключ не подходит ");
                 }
             }
         }

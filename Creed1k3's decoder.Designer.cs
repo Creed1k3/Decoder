@@ -106,9 +106,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(117, 139);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(152, 13);
+            this.label3.Size = new System.Drawing.Size(153, 13);
             this.label3.TabIndex = 9;
-            this.label3.Text = "зашифрованное сообщение:";
+            this.label3.Text = "Зашифрованное сообщение:";
             // 
             // Form1
             // 
